@@ -4,7 +4,7 @@
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](https://github.com/surelyourejoking/MachineLearningStocks/blob/master/LICENSE.txt)
 
-*EDIT as of Feb 2021: MachineLearningStocks is no longer actively maintained*
+*EDIT as of Feb 2025: MachineLearningStocks is no longer actively maintained*
 
 MachineLearningStocks is designed to be an **intuitive** and **highly extensible** template project applying machine learning to making stock predictions. My hope is that this project will help you understand the overall workflow of using machine learning to predict stock movements and also appreciate some of its subtleties. And of course, after following this guide and playing around with the project, you should definitely **make your own improvements** – if you're struggling to think of what to do, at the end of this readme I've included a long list of possiblilities: take your pick.
 
@@ -25,8 +25,8 @@ classical efficient frontier techniques (with modern improvements) in order to g
 
 - [Contents](#contents)
 - [Overview](#overview)
-  - [EDIT as of 24/5/18](#edit-as-of-24518)
-  - [EDIT as of October 2019](#edit-as-of-october-2019)
+  - [EDIT as of 17/2/25](#edit-as-of-24518)
+  - [EDIT as of 17/02/2025](#edit-as-of-october-2019)
 - [Quickstart](#quickstart)
 - [Preliminaries](#preliminaries)
 - [Historical data](#historical-data)
@@ -351,12 +351,8 @@ Altering the machine learning stuff is probably the easiest and most fun to do.
 - Should we really be trying to predict raw returns? What happens if a stock achieves a 20% return but does so by being highly volatile?
 - Try to plot the importance of different features to 'see what the machine sees'.
 
-## Contributing
 
-Feel free to fork, play around, and submit PRs. I would be very grateful for any bug fixes or more unit tests.
 
-This project was originally based on Sentdex's excellent [machine learning tutorial](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3), but it has since evolved far beyond that and the code is almost completely different. The complete series is also on [his website](https://pythonprogramming.net/machine-learning-python-sklearn-intro/).
 
 ---
 
-For more content like this, check out my academic blog at [reasonabledeviations.com/](https://reasonabledeviations.com).
